@@ -1,7 +1,15 @@
-### Hi there 👋
+### Hi~ I'm Qidi Liu 👋
+
+<img width="45%" align="right" src="https://github-readme-stats.vercel.app/api?username=QidiLiu&&hide=prs,contribs&?count_private=true&show_icons=true" />
+
+I'm a master student of TU Ilmenau, major in **Vehicle Engineering** (electrics and mechatronics in vehicles). My current research interests lie in the fields of **computer vision** and **autonomous vehicle sensors**.
+
+I'm currently learning C/C++ programming and measurement electronics. Feel free to [contact me](mailto:qidi.liu.chn@gmail.com) if you have any questions or needs.
 
 <!--
 **QidiLiu/QidiLiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QidiLiu&hide=HTML,CSS)](https://github.com/anuraghazra/github-readme-stats)
 
 Here are some ideas to get you started:
 
