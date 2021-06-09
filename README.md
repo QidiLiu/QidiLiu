@@ -4,7 +4,7 @@
 
 I'm a master student of TU Ilmenau, major in **Vehicle Engineering** (electrics and mechatronics in vehicles). My current research interests lie in the fields of **computer vision** and **autonomous vehicle sensors**.
 
-I'm currently learning C/C++ programming and measurement electronics. Feel free to [contact me](mailto:qidi.liu.chn@gmail.com) if you have any questions or needs.
+Feel free to [contact me](mailto:qidi.liu.chn@gmail.com) if you have any questions or needs.
 
 <!--
 **QidiLiu/QidiLiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
