@@ -2,7 +2,7 @@
 
 <img width="45%" align="right" src="https://github-readme-stats.vercel.app/api?username=QidiLiu&&hide=prs,contribs&?count_private=true&show_icons=true" />
 
-I am a computer vision engineer at CHISON Medical Technologies Co. My current main research area is medical computer vision and 3D rendering.
+I am a computer vision engineer at CHISON Medical Technologies Co. My current main research area is **medical computer vision** and **3D rendering**.
 
 Feel free to [contact me](mailto:qidi.liu@outlook.com) if you have any questions or needs.
 
