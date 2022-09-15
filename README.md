@@ -2,9 +2,9 @@
 
 <img width="45%" align="right" src="https://github-readme-stats.vercel.app/api?username=QidiLiu&&hide=prs,contribs&?count_private=true&show_icons=true" />
 
-I'm a master student of TU Ilmenau, major in **Vehicle Engineering** (electrics and mechatronics in vehicles). My current research interests lie in the fields of **computer vision** and **autonomous vehicle sensors**.
+I am a computer vision engineer at CHISON Medical Technologies Co. My current main research area is medical computer vision and 3D rendering.
 
-Feel free to [contact me](mailto:qidi.liu.chn@gmail.com) if you have any questions or needs.
+Feel free to [contact me](mailto:qidi.liu@outlook.com) if you have any questions or needs.
 
 <!--
 **QidiLiu/QidiLiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
