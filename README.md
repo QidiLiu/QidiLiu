@@ -1,10 +1,16 @@
-### Hi~ I'm Qidi Liu 👋
+### 你好~ 👋
 
-<img width="45%" align="right" src="https://github-readme-stats.vercel.app/api?username=QidiLiu&&hide=prs,contribs&?count_private=true&show_icons=true" />
+我是劉啟迪，一名工程師，在做：
+- 醫學影像
+- 機器牛馬
+- 可持續能源
 
-I am a computer vision engineer at CHISON Medical Technologies Co. My current main research area is **medical computer vision** and **3D rendering**.
+### Hi~ 👋
 
-Feel free to [contact me](mailto:qidi.liu@outlook.com) if you have any questions or needs.
+I'm Qidi Liu, an Engineer who is working on:
+- Medical imaging
+- Robotic arm
+- Sustainable energy
 
 <!--
 **QidiLiu/QidiLiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
