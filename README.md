@@ -1,16 +1,16 @@
 ### 你好~ 👋
 
 我是劉啟迪，一名工程師，在做：
-- 醫學影像
-- 機器牛馬
-- 可持續能源
+- 组织超聲破碎术
+- 高性價比機械臂
+- 高效率農業
 
 ### Hi~ 👋
 
 I'm Qidi Liu, an Engineer who is working on:
-- Medical imaging
-- Robotic arm
-- Sustainable energy
+- Histotripsy
+- High cost-performance ratio robotic arm
+- High-efficiency agriculture
 
 <!--
 **QidiLiu/QidiLiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
