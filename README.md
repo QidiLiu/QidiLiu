@@ -1,15 +1,15 @@
 ### 你好~ 👋
 
 我是劉啟迪，一名工程師，在做：
-- 🧠 具身智能
-- 🦾 高性價比機械臂
+- 🧠 工業人工智能
+- 🦾 具身智能和高性價比機械臂
 - 🍗 高效率農業
 
 ### Hi~ 👋
 
 I'm Qidi Liu, an Engineer who is working on:
-- 🧠 Embodied Artificial Intelligence
-- 🦾 High cost-performance ratio robotic arm
+- 🧠 AI for industury
+- 🦾 Embodied artificial intelligence and high cost-performance ratio robotic arm
 - 🍗 High-efficiency agriculture
 
 <!--
